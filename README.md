@@ -128,4 +128,10 @@ A high-performance real-time cryptocurrency trading analytics platform built wit
 - `GET /api/export/{symbol}?format=csv` - Export data
 - `POST /api/upload/ohlc` - Upload historical data
 
-
+### AI Contributions
+- **Architecture Design**: AI helped design the multi-layered architecture and component interactions
+- **Code Generation**: Boilerplate code, API endpoints, and data processing logic
+- **Bug Fixes**: Identified and resolved Unicode encoding issues, timestamp parsing errors, and async operations
+- **Optimization**: Performance improvements in WebSocket buffering and database operations
+- **Documentation**: README, code comments, and API documentation generation
+- **Best Practices**: Implementation of proper error handling, logging, and code structure
